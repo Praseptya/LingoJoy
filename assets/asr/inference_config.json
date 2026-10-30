@@ -1,0 +1,16 @@
+{
+  "model_type": "APC-LSTM keyword classification fixed-length masked pooling",
+  "input_feature": "normalized MFCC",
+  "input_shape": [
+    1,
+    500,
+    40
+  ],
+  "fixed_num_frames": 500,
+  "num_mfcc": 40,
+  "num_classes": 82,
+  "requires_select_tf_ops": false,
+  "padding": "pad zeros at the end if frames are shorter",
+  "truncation": "cut frames after fixed_num_frames if frames are longer",
+  "pooling": "masked average pooling ignores zero padding frames"
+}

@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "word": "zero",
+    "category": "Angka",
+    "tts_text": "zero",
+    "image_name": "zero.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 2,
+    "word": "one",
+    "category": "Angka",
+    "tts_text": "one",
+    "image_name": "one.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 3,
+    "word": "two",
+    "category": "Angka",
+    "tts_text": "two",
+    "image_name": "two.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 4,
+    "word": "three",
+    "category": "Angka",
+    "tts_text": "three",
+    "image_name": "three.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 5,
+    "word": "four",
+    "category": "Angka",
+    "tts_text": "four",
+    "image_name": "four.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 6,
+    "word": "five",
+    "category": "Angka",
+    "tts_text": "five",
+    "image_name": "five.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 7,
+    "word": "six",
+    "category": "Angka",
+    "tts_text": "six",
+    "image_name": "six.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 8,
+    "word": "seven",
+    "category": "Angka",
+    "tts_text": "seven",
+    "image_name": "seven.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 9,
+    "word": "eight",
+    "category": "Angka",
+    "tts_text": "eight",
+    "image_name": "eight.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 10,
+    "word": "nine",
+    "category": "Angka",
+    "tts_text": "nine",
+    "image_name": "nine.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 11,
+    "word": "cat",
+    "category": "Hewan",
+    "tts_text": "cat",
+    "image_name": "cat.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 12,
+    "word": "dog",
+    "category": "Hewan",
+    "tts_text": "dog",
+    "image_name": "dog.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 13,
+    "word": "bee",
+    "category": "Hewan",
+    "tts_text": "bee",
+    "image_name": "bee.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 14,
+    "word": "chicken",
+    "category": "Hewan",
+    "tts_text": "chicken",
+    "image_name": "chicken.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 15,
+    "word": "elephant",
+    "category": "Hewan",
+    "tts_text": "elephant",
+    "image_name": "elephant.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 16,
+    "word": "horse",
+    "category": "Hewan",
+    "tts_text": "horse",
+    "image_name": "horse.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 17,
+    "word": "lion",
+    "category": "Hewan",
+    "tts_text": "lion",
+    "image_name": "lion.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 18,
+    "word": "snake",
+    "category": "Hewan",
+    "tts_text": "snake",
+    "image_name": "snake.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 19,
+    "word": "rabbit",
+    "category": "Hewan",
+    "tts_text": "rabbit",
+    "image_name": "rabbit.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 20,
+    "word": "crocodile",
+    "category": "Hewan",
+    "tts_text": "crocodile",
+    "image_name": "crocodile.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 21,
+    "word": "apple",
+    "category": "Buah",
+    "tts_text": "apple",
+    "image_name": "apple.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 22,
+    "word": "banana",
+    "category": "Buah",
+    "tts_text": "banana",
+    "image_name": "banana.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 23,
+    "word": "orange",
+    "category": "Buah",
+    "tts_text": "orange",
+    "image_name": "orange.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 24,
+    "word": "mango",
+    "category": "Buah",
+    "tts_text": "mango",
+    "image_name": "mango.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 25,
+    "word": "grape",
+    "category": "Buah",
+    "tts_text": "grape",
+    "image_name": "grape.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 26,
+    "word": "kiwi",
+    "category": "Buah",
+    "tts_text": "kiwi",
+    "image_name": "kiwi.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 27,
+    "word": "strawberry",
+    "category": "Buah",
+    "tts_text": "strawberry",
+    "image_name": "strawberry.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 28,
+    "word": "lemon",
+    "category": "Buah",
+    "tts_text": "lemon",
+    "image_name": "lemon.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 29,
+    "word": "pear",
+    "category": "Buah",
+    "tts_text": "pear",
+    "image_name": "pear.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 30,
+    "word": "guava",
+    "category": "Buah",
+    "tts_text": "guava",
+    "image_name": "guava.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 31,
+    "word": "book",
+    "category": "Benda",
+    "tts_text": "book",
+    "image_name": "book.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 32,
+    "word": "pen",
+    "category": "Benda",
+    "tts_text": "pen",
+    "image_name": "pen.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 33,
+    "word": "bag",
+    "category": "Benda",
+    "tts_text": "bag",
+    "image_name": "bag.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 34,
+    "word": "bed",
+    "category": "Benda",
+    "tts_text": "bed",
+    "image_name": "bed.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 35,
+    "word": "cup",
+    "category": "Benda",
+    "tts_text": "cup",
+    "image_name": "cup.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 36,
+    "word": "ball",
+    "category": "Benda",
+    "tts_text": "ball",
+    "image_name": "ball.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 37,
+    "word": "chair",
+    "category": "Benda",
+    "tts_text": "chair",
+    "image_name": "chair.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 38,
+    "word": "table",
+    "category": "Benda",
+    "tts_text": "table",
+    "image_name": "table.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 39,
+    "word": "box",
+    "category": "Benda",
+    "tts_text": "box",
+    "image_name": "box.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 40,
+    "word": "clock",
+    "category": "Benda",
+    "tts_text": "clock",
+    "image_name": "clock.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 41,
+    "word": "red",
+    "category": "Warna",
+    "tts_text": "red",
+    "image_name": "red.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 42,
+    "word": "blue",
+    "category": "Warna",
+    "tts_text": "blue",
+    "image_name": "blue.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 43,
+    "word": "green",
+    "category": "Warna",
+    "tts_text": "green",
+    "image_name": "green.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 44,
+    "word": "yellow",
+    "category": "Warna",
+    "tts_text": "yellow",
+    "image_name": "yellow.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 45,
+    "word": "black",
+    "category": "Warna",
+    "tts_text": "black",
+    "image_name": "black.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 46,
+    "word": "white",
+    "category": "Warna",
+    "tts_text": "white",
+    "image_name": "white.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 47,
+    "word": "pink",
+    "category": "Warna",
+    "tts_text": "pink",
+    "image_name": "pink.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 48,
+    "word": "brown",
+    "category": "Warna",
+    "tts_text": "brown",
+    "image_name": "brown.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 49,
+    "word": "purple",
+    "category": "Warna",
+    "tts_text": "purple",
+    "image_name": "purple.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 50,
+    "word": "orange",
+    "category": "Warna",
+    "tts_text": "orange",
+    "image_name": "orange_color.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 51,
+    "word": "head",
+    "category": "Tubuh",
+    "tts_text": "head",
+    "image_name": "head.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 52,
+    "word": "hand",
+    "category": "Tubuh",
+    "tts_text": "hand",
+    "image_name": "hand.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 53,
+    "word": "foot",
+    "category": "Tubuh",
+    "tts_text": "foot",
+    "image_name": "foot.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 54,
+    "word": "eye",
+    "category": "Tubuh",
+    "tts_text": "eye",
+    "image_name": "eye.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 55,
+    "word": "ear",
+    "category": "Tubuh",
+    "tts_text": "ear",
+    "image_name": "ear.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 56,
+    "word": "nose",
+    "category": "Tubuh",
+    "tts_text": "nose",
+    "image_name": "nose.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 57,
+    "word": "mouth",
+    "category": "Tubuh",
+    "tts_text": "mouth",
+    "image_name": "mouth.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 58,
+    "word": "hair",
+    "category": "Tubuh",
+    "tts_text": "hair",
+    "image_name": "hair.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 59,
+    "word": "arm",
+    "category": "Tubuh",
+    "tts_text": "arm",
+    "image_name": "arm.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 60,
+    "word": "leg",
+    "category": "Tubuh",
+    "tts_text": "leg",
+    "image_name": "leg.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 61,
+    "word": "rice",
+    "category": "Makanan",
+    "tts_text": "rice",
+    "image_name": "rice.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 62,
+    "word": "bread",
+    "category": "Makanan",
+    "tts_text": "bread",
+    "image_name": "bread.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 63,
+    "word": "milk",
+    "category": "Makanan",
+    "tts_text": "milk",
+    "image_name": "milk.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 64,
+    "word": "egg",
+    "category": "Makanan",
+    "tts_text": "egg",
+    "image_name": "egg.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 65,
+    "word": "cake",
+    "category": "Makanan",
+    "tts_text": "cake",
+    "image_name": "cake.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 66,
+    "word": "soup",
+    "category": "Makanan",
+    "tts_text": "soup",
+    "image_name": "soup.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 67,
+    "word": "cheese",
+    "category": "Makanan",
+    "tts_text": "cheese",
+    "image_name": "cheese.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 68,
+    "word": "pizza",
+    "category": "Makanan",
+    "tts_text": "pizza",
+    "image_name": "pizza.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 69,
+    "word": "meat",
+    "category": "Makanan",
+    "tts_text": "meat",
+    "image_name": "meat.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 70,
+    "word": "noodle",
+    "category": "Makanan",
+    "tts_text": "noodle",
+    "image_name": "noodle.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 71,
+    "word": "car",
+    "category": "Transportasi",
+    "tts_text": "car",
+    "image_name": "car.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 72,
+    "word": "bus",
+    "category": "Transportasi",
+    "tts_text": "bus",
+    "image_name": "bus.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 73,
+    "word": "bike",
+    "category": "Transportasi",
+    "tts_text": "bike",
+    "image_name": "bike.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 74,
+    "word": "train",
+    "category": "Transportasi",
+    "tts_text": "train",
+    "image_name": "train.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 75,
+    "word": "plane",
+    "category": "Transportasi",
+    "tts_text": "plane",
+    "image_name": "plane.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 76,
+    "word": "boat",
+    "category": "Transportasi",
+    "tts_text": "boat",
+    "image_name": "boat.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 77,
+    "word": "truck",
+    "category": "Transportasi",
+    "tts_text": "truck",
+    "image_name": "truck.png",
+    "difficulty": "sedang"
+  },
+  {
+    "id": 78,
+    "word": "taxi",
+    "category": "Transportasi",
+    "tts_text": "taxi",
+    "image_name": "taxi.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 79,
+    "word": "ship",
+    "category": "Transportasi",
+    "tts_text": "ship",
+    "image_name": "ship.png",
+    "difficulty": "mudah"
+  },
+  {
+    "id": 80,
+    "word": "motorcycle",
+    "category": "Transportasi",
+    "tts_text": "motorcycle",
+    "image_name": "motorcycle.png",
+    "difficulty": "mudah"
+  }
+]
